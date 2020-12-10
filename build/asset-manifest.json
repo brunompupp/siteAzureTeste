@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63d4aaa7.chunk.css",
+    "main.js": "/static/js/main.421f306d.chunk.js",
+    "main.js.map": "/static/js/main.421f306d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.245ca5e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.245ca5e1.js.map",
+    "static/css/2.165ff965.chunk.css": "/static/css/2.165ff965.chunk.css",
+    "static/js/2.5e5a6b83.chunk.js": "/static/js/2.5e5a6b83.chunk.js",
+    "static/js/2.5e5a6b83.chunk.js.map": "/static/js/2.5e5a6b83.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.165ff965.chunk.css.map": "/static/css/2.165ff965.chunk.css.map",
+    "static/css/main.63d4aaa7.chunk.css.map": "/static/css/main.63d4aaa7.chunk.css.map",
+    "static/js/2.5e5a6b83.chunk.js.LICENSE.txt": "/static/js/2.5e5a6b83.chunk.js.LICENSE.txt",
+    "static/media/imagemLogin.c3788f34.svg": "/static/media/imagemLogin.c3788f34.svg",
+    "static/media/imgFundo.86b76d7b.svg": "/static/media/imgFundo.86b76d7b.svg",
+    "static/media/load.e7fbbc19.gif": "/static/media/load.e7fbbc19.gif",
+    "static/media/logomini2.7afb1194.svg": "/static/media/logomini2.7afb1194.svg",
+    "static/media/logotipo.6faf9eae.svg": "/static/media/logotipo.6faf9eae.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/tutorial.a7c12abb.svg": "/static/media/tutorial.a7c12abb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.245ca5e1.js",
+    "static/css/2.165ff965.chunk.css",
+    "static/js/2.5e5a6b83.chunk.js",
+    "static/css/main.63d4aaa7.chunk.css",
+    "static/js/main.421f306d.chunk.js"
+  ]
+}
